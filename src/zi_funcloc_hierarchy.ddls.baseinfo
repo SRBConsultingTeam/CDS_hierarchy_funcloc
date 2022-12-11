@@ -1,0 +1,17 @@
+{
+"BASEINFO":
+{
+"FROM":
+[
+"DDDDL_HIERARCHY",
+"ZI_FUNCLOC_TREE"
+],
+"ASSOCIATED":
+[],
+"BASE":
+[],
+"ANNO_REF":
+[],
+"VERSION":0
+}
+}
